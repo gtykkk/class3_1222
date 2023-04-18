@@ -17,6 +17,7 @@ public class HomeController {
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
 		// gtykkk 브랜치에서 추가한 내용
+		// gtykkk 브랜치에서 추가한 내용 22222
 		return "index";
 	}
 	
