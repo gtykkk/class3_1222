@@ -28,7 +28,6 @@
 		<hr>
 	</article>
 	<h3>spring이 수정</h3>
-	<h3>spring이 추가함</h3>
 </body>
 </html>
 
